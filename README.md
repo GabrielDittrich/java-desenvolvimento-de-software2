@@ -45,7 +45,7 @@ Os principais tópicos estudados nesta disciplina incluem:
 ### Como executar os códigos
 Clone o repositório
 
-    git clone https://github.com/seu-usuario/desenvolvimento-de-software.git
+    https://github.com/GabrielDittrich/java-desenvolvimento-de-software.git
 
 Abra o projeto no Visual Studio Code
 
